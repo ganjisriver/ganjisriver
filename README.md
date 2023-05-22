@@ -1,37 +1,27 @@
-<div align="center"> 
-  
-###  :wave: Welcome my github profile !
 
   
- <br/>
- <br/>
+# 강정훈
+
+### Back-end Engineer
+  Contact: <b>ganjisriver18@gmail.com</b>
+#### 안녕하세요🖐
+#### 새로운 경험과 도전을 즐기고,
+#### 돼지처럼 경험치를 모조리 씹어먹는 신입 백엔드 개발자 강정훈입니다.🐷
+  <br>
+  <hr>
   
-####  :clipboard: Once I've Used 
-  
- <br/>
-  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- 
-   <br/>
-   <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganjisriver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+🔥 새로운 경험을 좋아하고, 다양한 사람을 만나 소통하는 것을 좋아합니다.<br>
+🤡 프로젝트 진행 시, 좋은 분위기 속에서 팀원들을 웃겨주는 광대같은 사람입니다.
+<br>
+🌈 일을 진행함에 있어서 열정이 느껴지는 팀원을 좋아합니다.
+<br>
+💥 협업 과정에서, 일을 진행할 때, 제가 납득하지 못하는 부분은 끊임없이 물어봅니다.
+<br>
+😋 특정 아젠다, 기술에 대해 남들과 토론하여 각자의 관점을 공유하는 것을 좋아합니다.
+  <br>
+  <hr>
+
+
 
 <!--
 **ganjisriver/ganjisriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
