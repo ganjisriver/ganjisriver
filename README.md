@@ -20,7 +20,7 @@
 😋 특정 아젠다, 기술에 대해 남들과 토론하여 각자의 관점을 공유하는 것을 좋아합니다.
   <br>
   <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganjisriver&layout=compact)
 
 
 <!--
