@@ -4,38 +4,52 @@ Back-end Engineer
   Contact
   <br>
   E-mail: ganjisriver18@gmail.com
-  
-  
-#### 안녕하세요🖐
-#### 새로운 경험과 도전을 즐기고,
-#### 돼지처럼 경험치를 모조리 씹어먹는 신입 백엔드 개발자 강정훈입니다.🐷
-  <br>
-  <hr>
 
-🔥 새로운 경험을 좋아하고, 다양한 사람을 만나 소통하는 것을 좋아합니다.<br>
-🤡 프로젝트 진행 시, 좋은 분위기 속에서 팀원들을 웃겨주는 광대같은 사람입니다.
+
 <br>
-🌈 일을 진행함에 있어서 열정이 느껴지는 팀원을 좋아합니다.
-<br>
-💥 협업 과정에서, 일을 진행할 때, 제가 납득하지 못하는 부분은 끊임없이 물어봅니다.
-<br>
-😋 특정 아젠다, 기술에 대해 남들과 토론하여 각자의 관점을 공유하는 것을 좋아합니다.
-  <br>
+
 ## Skills
 
 ### Strong
 Java / Python / Spring Boot / Spring Data JPA / MySQL
 
 ### knowledgeable
-Spring Security / Nginx / Linux / Docker / Jenkins / Amazon EC2 / Amazon S3
+Spring Security / Nginx / Linux / Docker / Jenkins / postgreSQL/ Amazon EC2 / Amazon S3 / Amazon RDS 
 
 ### Skills I've Used few times
-html / CSS / javascypt / bootstrap / Vue.js
-kotlin / Redis
+html / CSS / javascypt / bootstrap / Vue.js / kotlin / Redis
 
 ### ETC
 git / Jira / IntelliJ / PyCharm / Android Studio
 
 ### Want to learn
-C++ / k8s / EFK / Kafka / RabbitMQ / SonarQube / Redis / mongodb / postgreSQL
+C++ / k8s / EFK / Kafka / RabbitMQ / SonarQube / Redis / mongodb 
+<br>
+## Project
 
+[2023.11 ~ ] 이세계차트: 크리에이터 이세계아이돌 관련 음원정보 제공 서비스 / 스프링 백엔드 참여
+
+[2023.11 ~ 2023.12] 모두의입법: 발의안에 대한 전국민의 접근성을 높이기 위한 서비스 / 스프링 백엔드 참여 
+
+[2023. 04 - 2023. 06] AboutTimeCapsule: 추억 기반 AR 활용 SNS  / 안드로이드 개발 참여
+
+[2023. 02 - 2023. 04] Healing Diary: 중증 환자를 위한 음성 다이어리 어플 / 스프링 백엔드 참여
+
+[2023.01 ~ 2023.02] Blur: Web RTC 활용 비대면 소개팅 서비스 / 인프라 참여
+<br>
+## Experience
+
+[2023.06 ~ ] CS 스터디
+
+[2023.01 ~ ] 알고리즘 스터디
+
+[2022.07 ~ 2023.06] 삼성 청년 소프트웨어 아카데미(SSAFY) 8기 수료
+
+
+<br>
+
+## Certificate
+
+SQLD
+
+PCCP(Python) Level2
