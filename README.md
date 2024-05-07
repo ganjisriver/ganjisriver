@@ -4,7 +4,8 @@ Back-end Engineer
   Contact
   <br>
   E-mail: ganjisriver18@gmail.com
-
+  <br>
+  Blog: https://ganjisriver.tistory.com
 
 <br>
 
