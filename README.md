@@ -53,6 +53,8 @@ C++ / k8s / EFK / Kafka / RabbitMQ / SonarQube / Redis / mongodb
 
 ## Certificate
 
+정보처리기사
+
 SQLD
 
 PCCP(Python) Level2
