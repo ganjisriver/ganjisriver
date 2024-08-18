@@ -5,7 +5,7 @@ Back-end Engineer
   <br>
   E-mail: ganjisriver18@gmail.com
   <br>
-  Blog: https://ganjisriver.tistory.com
+  Blog: https://velog.io/@ganjisriver/series
 
 <br>
 
