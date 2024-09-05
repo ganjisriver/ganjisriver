@@ -47,7 +47,7 @@ C++ / k8s / EFK / Kafka / RabbitMQ / SonarQube / Redis / mongodb
 
 [2022.07 ~ 2023.06] 삼성 청년 소프트웨어 아카데미(SSAFY) 8기 수료
 
-[2016.03 ~ 2022.08] 한국외국어대학교 경영학 전공
+[2016.03 ~ 2022.08] OO대학교 OO 전공
 
 <br>
 
