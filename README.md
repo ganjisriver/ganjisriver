@@ -12,10 +12,10 @@ Back-end Engineer
 ## Skills
 
 ### Strong
-Java / Python / Spring Boot / Spring Data JPA / MySQL
+Java / Spring Boot / Spring Data JPA / MySQL
 
 ### knowledgeable
-Spring Security / Nginx / Linux / Docker / Jenkins / postgreSQL / Amazon EC2 / Amazon S3 / Amazon RDS 
+ Python / Spring Security / Nginx / Linux / Docker / Jenkins / Github Actions / postgreSQL / MySQL / Amazon EC2 / Amazon S3 / Amazon RDS
 
 ### Skills I've Used few times
 html / CSS / javascypt / bootstrap / Vue.js / kotlin / Redis
