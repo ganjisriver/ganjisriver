@@ -5,7 +5,7 @@ Back-end Engineer
   <br>
   E-mail: ganjisriver18@gmail.com
   <br>
-  Blog: https://velog.io/@ganjisriver/series
+  Blog: https://velog.io/@ganjisriver/posts
 
 <br>
 
@@ -41,9 +41,9 @@ C++ / k8s / EFK / Kafka / RabbitMQ / SonarQube / Redis / mongodb
 ## Experience
 [2024.03 ~ ] 원티드 프리온보딩 백엔드 챌린지
 
-[2023.06 ~ ] CS 스터디
+[2023.06 ~ 2023.11] CS 스터디
 
-[2023.01 ~ ] 알고리즘 스터디
+[2023.01 ~ 2023.11] 알고리즘 스터디
 
 [2022.07 ~ 2023.06] 삼성 청년 소프트웨어 아카데미(SSAFY) 8기 수료
 
